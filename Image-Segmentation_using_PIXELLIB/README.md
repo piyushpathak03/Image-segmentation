@@ -1,6 +1,5 @@
 # Segmenting the images with the help of pixellib
 
-![mylogo](Images/PixelLibLogo.png) <br> <br>
 
 Pixellib is a library for performing segmentation of objects in images and videos. It supports the two major types of image segmentation:
 
@@ -20,6 +19,9 @@ Install the requirements.txt in local
 ### Input image
 ![Input image of crowd](https://github.com/piyushpathak03/Image-segmentation/blob/main/Image-Segmentation_using_PIXELLIB/crowd.jpg)
 
+![Input image of market](https://github.com/piyushpathak03/Image-segmentation/blob/main/Image-Segmentation_using_PIXELLIB/market.jpg)
+
+
 **Step:3**
 
 ```
@@ -33,6 +35,8 @@ segment_image.segmentImage("input.jpg", show_bboxes = True, output_image_name = 
 
 ### Output image
 ![Output image of crowd after segmentation](https://github.com/piyushpathak03/Image-segmentation/blob/main/Image-Segmentation_using_PIXELLIB/output_crowd.jpg)
+
+![Output image of crowd after segmentation](https://github.com/piyushpathak03/Image-segmentation/blob/main/Image-Segmentation_using_PIXELLIB/output1.jpg)
 
 ## About me
 
