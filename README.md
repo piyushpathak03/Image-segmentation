@@ -2,7 +2,7 @@
 
 # 1. Segmenting the images with the help of pixellib
 
-
+PixelLib is a library created for performing image and video segmentation using few lines of code. It is a flexible library created to allow easy integration of image and video segmentation into software solutions.
 Pixellib is a library for performing segmentation of objects in images and videos. It supports the two major types of image segmentation:
 
 1.Semantic segmentation
